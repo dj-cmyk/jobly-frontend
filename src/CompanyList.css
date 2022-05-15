@@ -1,0 +1,27 @@
+.List {
+    text-align: center;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.Card {
+    margin: 8px;
+    text-decoration: none;
+}
+
+.Card-Title {
+    font-weight: bold;
+    font-size: large;
+    color: rgb(99, 122, 153);
+}
+
+.Card-Text {
+    font-style: italic;
+    color: black;
+}
+
+.Card-SubText {
+    font-style: normal;
+    font-size: small;
+    color: black;
+}
